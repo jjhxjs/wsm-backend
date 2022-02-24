@@ -1,0 +1,425 @@
+[2021-06-02 16:19:44,927--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 16:20:18,578--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 16:21:23,076--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 16:21:49,645--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 16:35:01,321--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 16:36:16,729--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 16:36:16] "GET / HTTP/1.1" 200 -
+[2021-06-02 16:36:16,797--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 16:36:16] "GET /favicon.ico HTTP/1.1" 404 -
+[2021-06-02 16:37:20,056--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:23:49,783--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:24:22,535--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:24:22] "GET / HTTP/1.1" 200 -
+[2021-06-02 17:24:33,679--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:24:33] "GET /word/get_all HTTP/1.1" 404 -
+[2021-06-02 17:24:38,958--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:24:38] "GET / HTTP/1.1" 200 -
+[2021-06-02 17:24:53,861--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:24:53] "GET /word/get_all HTTP/1.1" 404 -
+[2021-06-02 17:28:50,967--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:28:56,465--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:28:56] "GET /word/get_all HTTP/1.1" 404 -
+[2021-06-02 17:29:03,144--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:29:03] "GET /word/get_all HTTP/1.1" 404 -
+[2021-06-02 17:29:07,348--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:29:07] "GET /test HTTP/1.1" 200 -
+[2021-06-02 17:30:16,311--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:30:20,469--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:30:20] "GET /word/get_all HTTP/1.1" 404 -
+[2021-06-02 17:32:38,286--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:32:43,072--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:32:43] "GET /word/get_all HTTP/1.1" 404 -
+[2021-06-02 17:32:52,235--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:32:54,328--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:32:54] "GET /word/get_all HTTP/1.1" 404 -
+[2021-06-02 17:33:53,516--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:33:56,227--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:33:56] "GET /word/get_all HTTP/1.1" 404 -
+[2021-06-02 17:34:05,587--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:34:08,039--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:34:08] "GET /word/get_all HTTP/1.1" 404 -
+[2021-06-02 17:34:13,425--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:34:13] "GET /test HTTP/1.1" 200 -
+[2021-06-02 17:34:31,988--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:34:58,401--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 17:35:11,316--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 17:35:11] "GET /word/get_all HTTP/1.1" 200 -
+[2021-06-02 18:14:27,309--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 22:06:52,876--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-02 22:07:13,045--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 22:07:13] "GET /word/get_all HTTP/1.1" 200 -
+[2021-06-02 22:07:13,118--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [02/Jun/2021 22:07:13] "GET /favicon.ico HTTP/1.1" 404 -
+[2021-06-02 22:18:02,673--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 17:54:30,044--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 17:56:20,186--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [06/Jun/2021 17:56:20] "GET /test HTTP/1.1" 200 -
+[2021-06-06 17:56:20,244--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [06/Jun/2021 17:56:20] "GET /favicon.ico HTTP/1.1" 404 -
+[2021-06-06 17:56:34,024--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [06/Jun/2021 17:56:34] "GET /control/update_book_list HTTP/1.1" 404 -
+[2021-06-06 17:58:39,130--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 17:58:47,403--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [06/Jun/2021 17:58:47] "GET /control/update_book_list HTTP/1.1" 200 -
+[2021-06-06 17:59:09,870--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 18:03:22,608--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 18:05:46,686--aa7c2afd23cf474] ERROR[app.py:log_exception:1891]: Exception on /control/update_book_list [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 153, in update_book_list
+    book.content = get_txt_from_url(txt_url)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 28, in get_txt_from_url
+    txt = response.read().decode('utf-8', 'ignore')
+UnboundLocalError: local variable 'response' referenced before assignment
+[2021-06-06 18:05:46,702--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [06/Jun/2021 18:05:46] "GET /control/update_book_list HTTP/1.1" 500 -
+[2021-06-06 20:29:57,207--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 20:31:22,159--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 20:34:39,866--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 20:42:40,161--0cabc106585b41f] ERROR[app.py:log_exception:1891]: Exception on /control/update_book_list [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 151, in update_book_list
+    book.year = int(date)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+[2021-06-06 20:42:40,162--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [06/Jun/2021 20:42:40] "GET /control/update_book_list HTTP/1.1" 500 -
+[2021-06-06 21:06:29,604--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 21:06:40,530--beb81409359d449] ERROR[app.py:log_exception:1891]: Exception on /control/update_book_list [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 73, in update_book_list
+    body = response.read()
+UnboundLocalError: local variable 'response' referenced before assignment
+[2021-06-06 21:06:40,534--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [06/Jun/2021 21:06:40] "GET /control/update_book_list HTTP/1.1" 500 -
+[2021-06-06 21:06:53,783--b665d4568e24400] ERROR[app.py:log_exception:1891]: Exception on /control/update_book_list [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 73, in update_book_list
+    body = response.read()
+UnboundLocalError: local variable 'response' referenced before assignment
+[2021-06-06 21:06:53,786--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [06/Jun/2021 21:06:53] "GET /control/update_book_list HTTP/1.1" 500 -
+[2021-06-06 21:12:46,376--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-06 21:13:32,376--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:17:46,763--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:18:01,720--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:18:56,404--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:23:22,322--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:29:09,819--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:29:41,797--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:30:18,268--d119db2da879463] ERROR[app.py:log_exception:1891]: Exception on /test_sql [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\test_view.py", line 11, in test_sql
+    book1 = Book.query.filter(id = 1).first()
+TypeError: filter() got an unexpected keyword argument 'id'
+[2021-06-07 15:30:18,275--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:30:18] "GET /test_sql HTTP/1.1" 500 -
+[2021-06-07 15:30:32,613--024a9ef048f0450] ERROR[app.py:log_exception:1891]: Exception on /test_sql [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\test_view.py", line 11, in test_sql
+    book1 = Book.query.filter(id = 1).first()
+TypeError: filter() got an unexpected keyword argument 'id'
+[2021-06-07 15:30:32,614--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:30:32] "GET /test_sql HTTP/1.1" 500 -
+[2021-06-07 15:30:54,004--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:31:22,423--1793d48e2033457] ERROR[app.py:log_exception:1891]: Exception on /test_sql [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\test_view.py", line 11, in test_sql
+    book1 = Book.query.filter(id = 1).first()
+TypeError: filter() got an unexpected keyword argument 'id'
+[2021-06-07 15:31:22,424--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:31:22] "GET /test_sql HTTP/1.1" 500 -
+[2021-06-07 15:31:42,085--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:31:42] "GET /test HTTP/1.1" 200 -
+[2021-06-07 15:31:45,781--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:31:45] "GET /test HTTP/1.1" 200 -
+[2021-06-07 15:31:49,895--c7a33f531a0c45c] ERROR[app.py:log_exception:1891]: Exception on /test_sql [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\test_view.py", line 11, in test_sql
+    book1 = Book.query.filter(id = 1).first()
+TypeError: filter() got an unexpected keyword argument 'id'
+[2021-06-07 15:31:49,896--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:31:49] "GET /test_sql HTTP/1.1" 500 -
+[2021-06-07 15:31:55,933--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:31:55] "GET /test HTTP/1.1" 200 -
+[2021-06-07 15:33:53,912--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:34:19,453--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:34:19] "GET /test HTTP/1.1" 200 -
+[2021-06-07 15:34:26,324--641ef0914a2e479] ERROR[app.py:log_exception:1891]: Exception on /test_sql [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\test_view.py", line 11, in test_sql
+    book1 = Book.query.filte_by(id = 1).first()
+AttributeError: 'BaseQuery' object has no attribute 'filte_by'
+[2021-06-07 15:34:26,326--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:34:26] "GET /test_sql HTTP/1.1" 500 -
+[2021-06-07 15:34:51,241--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-07 15:34:54,278--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:34:54] "GET /test_sql HTTP/1.1" 200 -
+[2021-06-07 15:39:59,522--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:39:59] "GET /test HTTP/1.1" 200 -
+[2021-06-07 15:40:03,409--701c547994214fd] ERROR[app.py:log_exception:1891]: Exception on /test_sql [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\engine\base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\engine\default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (2013, 'Lost connection to MySQL server during query')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\test_view.py", line 11, in test_sql
+    book1 = Book.query.filter_by(id = 1).first()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\orm\query.py", line 3429, in first
+    ret = list(self[0:1])
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\orm\query.py", line 3203, in __getitem__
+    return list(res)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\orm\query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\orm\query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\engine\base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\sql\elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\engine\base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\engine\base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\engine\base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\util\compat.py", line 182, in raise_
+    raise exception
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\engine\base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\sqlalchemy\engine\default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+sqlalchemy.exc.OperationalError: (MySQLdb._exceptions.OperationalError) (2013, 'Lost connection to MySQL server during query')
+[SQL: SELECT book.id AS book_id, book.title AS book_title, book.author AS book_author, book.content AS book_content, book.year AS book_year, book.description AS book_description, book.url_index AS book_url_index, book.url_epub AS book_url_epub, book.url_txt AS book_url_txt, book.language AS book_language 
+FROM book 
+WHERE book.id = %s 
+ LIMIT %s]
+[parameters: (1, 1)]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+[2021-06-07 15:40:03,470--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:40:03] "GET /test_sql HTTP/1.1" 500 -
+[2021-06-07 15:40:07,891--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [07/Jun/2021 15:40:07] "GET /test_sql HTTP/1.1" 200 -
+[2021-06-07 16:08:43,217--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-10 02:18:11,877--9a03c5cf7f3c44e] ERROR[app.py:log_exception:1891]: Exception on /control/update_book_list [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 158, in update_book_list
+    book.content = get_txt_from_url(txt_url)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 28, in get_txt_from_url
+    txt = response.read().decode('utf-8', 'ignore')
+UnboundLocalError: local variable 'response' referenced before assignment
+[2021-06-10 02:18:11,901--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [10/Jun/2021 02:18:11] "GET /control/update_book_list HTTP/1.1" 500 -
+[2021-06-10 16:02:29,075--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-10 16:03:03,676--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [10/Jun/2021 16:03:03] "GET /test HTTP/1.1" 200 -
+[2021-06-10 16:03:03,740--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [10/Jun/2021 16:03:03] "GET /favicon.ico HTTP/1.1" 404 -
+[2021-06-10 22:29:05,428--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-10 22:29:11,120--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [10/Jun/2021 22:29:11] "GET /control/update_book_list HTTP/1.1" 404 -
+[2021-06-11 10:32:31,393--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [11/Jun/2021 10:32:31] "GET /control/update_book_list_gutenberg HTTP/1.1" 200 -
+[2021-06-11 14:02:01,462--1719d96b318c469] ERROR[app.py:log_exception:1891]: Exception on /control/update_book_list_archive [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 251, in update_book_list_archive
+    json_txt = response.read()
+UnboundLocalError: local variable 'response' referenced before assignment
+[2021-06-11 14:02:01,484--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [11/Jun/2021 14:02:01] "GET /control/update_book_list_archive HTTP/1.1" 500 -
+[2021-06-11 14:02:05,504--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [11/Jun/2021 14:02:05] "GET /test HTTP/1.1" 200 -
+[2021-06-11 14:04:34,945--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 14:05:20,405--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [11/Jun/2021 14:05:20] "GET /test HTTP/1.1" 200 -
+[2021-06-11 14:05:21,434--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [11/Jun/2021 14:05:21] "GET /test HTTP/1.1" 200 -
+[2021-06-11 14:37:41,739--21ddb32c238a42c] ERROR[app.py:log_exception:1891]: Exception on /control/update_book_list_archive [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 278, in update_book_list_archive
+    book.content = get_archive_txt_from_url(url_txt)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 213, in get_archive_txt_from_url
+    return txt_soup.text
+AttributeError: 'NoneType' object has no attribute 'text'
+[2021-06-11 14:37:41,762--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [11/Jun/2021 14:37:41] "GET /control/update_book_list_archive HTTP/1.1" 500 -
+[2021-06-11 15:22:06,168--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 15:22:13,450--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [11/Jun/2021 15:22:13] "GET /control/update_book_list_archive HTTP/1.1" 200 -
+[2021-06-11 15:23:06,777--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 15:38:07,753--845a6dd5a14049a] ERROR[app.py:log_exception:1891]: Exception on /control/update_book_list_archive [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 278, in update_book_list_archive
+    book.content = get_archive_txt_from_url(url_txt)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 210, in get_archive_txt_from_url
+    body = response.read()
+UnboundLocalError: local variable 'response' referenced before assignment
+[2021-06-11 15:38:07,755--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [11/Jun/2021 15:38:07] "GET /control/update_book_list_archive HTTP/1.1" 500 -
+[2021-06-11 15:46:22,901--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 15:48:30,714--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 15:53:56,509--77d4f83875e245a] ERROR[app.py:log_exception:1891]: Exception on /control/update_book_list_archive [GET]
+Traceback (most recent call last):
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\yx\.conda\envs\work\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 282, in update_book_list_archive
+    book.content = get_archive_txt_from_url(url_txt)
+  File "C:\Users\yx\Desktop\wuxi\wsmserver\app\views\control_view.py", line 210, in get_archive_txt_from_url
+    body = response.read()
+UnboundLocalError: local variable 'response' referenced before assignment
+[2021-06-11 15:53:56,511--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [11/Jun/2021 15:53:56] "GET /control/update_book_list_archive HTTP/1.1" 500 -
+[2021-06-11 15:55:20,793--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 16:33:53,696--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 16:36:29,260--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 16:37:24,115--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 16:38:59,419--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 16:41:27,841--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-11 17:01:00,168--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-12 12:21:30,870--None] INFO[_internal.py:_log:122]: 127.0.0.1 - - [12/Jun/2021 12:21:30] "GET /control/update_book_list_archive HTTP/1.1" 200 -
+[2021-06-16 22:50:02,894--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-16 22:52:06,425--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-16 22:52:53,327--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-06-16 22:54:13,018--None] INFO[_internal.py:_log:122]:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
